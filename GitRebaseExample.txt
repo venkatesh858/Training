@@ -1,0 +1,3 @@
+First line in Git rebase
+Second line in Git rebase
+Third line in Git rebase
