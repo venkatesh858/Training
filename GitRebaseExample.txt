@@ -1,3 +1,0 @@
-First line in Git rebase
-Second line in Git rebase
-Git
